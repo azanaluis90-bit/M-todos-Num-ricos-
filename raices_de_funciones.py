@@ -1,6 +1,6 @@
 import sympy as sp
 
-def resolver_metodos()
+def resolver_metodos():
     x = sp.symbols('x')
     
     print(" SOLUCIONADOR NUMERICO ")
